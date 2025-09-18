@@ -1,0 +1,31 @@
+Perfect! I've created a comprehensive .gitignore-demo file that demonstrates various patterns and best practices for different scenarios. Here's what the demo includes:
+
+Key Sections:
+
+1. Operating System Files - .DS_Store (macOS), Thumbs.db (Windows), Linux temp files
+2. Editors & IDEs - VS Code, IntelliJ, Sublime Text, Vim, Emacs, Eclipse
+3. Programming Languages - Python, Node.js, Java, Go, Rust, C/C++, Ruby, PHP
+4. Databases - SQLite, MySQL, PostgreSQL files
+5. Logs & Temporary Files - Various log and temp file patterns
+6. Security & Secrets - Environment files, API keys, certificates
+7. Build Outputs - Compiled files, build directories, packages
+8. Documentation - Generated docs, coverage reports
+9. Dependencies - node_modules, vendor directories
+10. Cloud & Deployment - Docker, Terraform, Ansible files
+11. Media Files - Images, videos, audio (commented out by default)
+
+Pattern Examples Included:
+
+•  *.txt - ignore all .txt files
+•  !important.txt - exception (don't ignore this specific file)
+•  /folder/ - ignore folder only in root
+•  folder/ - ignore folder anywhere
+•  folder/** - ignore everything in folder recursively
+•  debug?.log - wildcard patterns
+•  debug[01].log - character classes
+
+The file is now available as .gitignore-demo in your current directory. You can:
+•  Copy patterns from it to your existing .gitignore
+•  Use it as a reference
+•  Rename it to .gitignore if you want to replace your current minimal one
+
