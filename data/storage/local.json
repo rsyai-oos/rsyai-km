@@ -1,0 +1,32 @@
+{
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 0,
+      "focusId": "20241125224159-vcaj2bv",
+      "focusStart": 0,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 0,
+      "startId": "20241125224159-8zf3bos"
+    },
+    "20250918213714-9iag80f": {
+      "endId": "20250918213843-rsxyjnf",
+      "focusEnd": 0,
+      "focusId": "20250918213843-rsxyjnf",
+      "focusStart": 0,
+      "rootId": "20250918213714-9iag80f",
+      "scrollTop": 0,
+      "startId": "20250918213714-tetq81l"
+    },
+    "20250918213741-he8r9th": {
+      "endId": "20250918213924-9r5pkj2",
+      "focusEnd": 0,
+      "focusId": "20250918213924-9r5pkj2",
+      "focusStart": 0,
+      "rootId": "20250918213741-he8r9th",
+      "scrollTop": 0,
+      "startId": "20250918213741-csiukyi"
+    }
+  },
+  "local-filespaths": []
+}
