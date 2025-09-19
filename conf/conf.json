@@ -247,7 +247,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "232px",
+              "size": "322px",
               "type": "left"
             },
             {
@@ -256,7 +256,7 @@
                   "children": [
                     {
                       "active": true,
-                      "activeTime": "1758202766946",
+                      "activeTime": "1758292043207",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250918213714-9iag80f",
@@ -268,10 +268,10 @@
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Debian System Configuration"
+                      "title": "Debian Development Envrionment"
                     },
                     {
-                      "activeTime": "1758202766204",
+                      "activeTime": "1758291735201",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250918213741-he8r9th",
@@ -351,10 +351,10 @@
             "hotkey": "⌥1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
-            "show": true,
+            "show": false,
             "size": {
               "height": 0,
-              "width": 232
+              "width": 290
             },
             "title": "文档树",
             "type": "file"
@@ -363,10 +363,10 @@
             "hotkey": "⌥2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
-            "show": false,
+            "show": true,
             "size": {
               "height": 0,
-              "width": 232
+              "width": 322
             },
             "title": "大纲",
             "type": "outline"
@@ -469,7 +469,7 @@
     "127.0.0.1",
     "192.168.0.145",
     "[::1]",
-    "[2001:3::f092:47a2:a406:2f7f]",
+    "[2001:3::6cd0:8a5e:55ca:78ff]",
     "[2001:3::f277:c3ff:fe1a:ef37]",
     "[fe80::f277:c3ff:fe1a:ef37]"
   ],
@@ -1259,11 +1259,11 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 0,
+    "treeCount": 2,
     "cTreeCount": 100,
-    "blockCount": 0,
+    "blockCount": 373,
     "cBlockCount": 5000,
-    "dataSize": 36864,
+    "dataSize": 150879,
     "cDataSize": 104857600,
     "assetsSize": 0,
     "cAssetsSize": 104857600
